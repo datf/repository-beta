@@ -1,17 +1,26 @@
 ---
 name: Repository Update
 
+# yamllint disable-line rule:truthy
 on:
   repository_dispatch:
     types: ["update"]
+
+permissions:
+  contents: read
 
 jobs:
   updater:
     name: Updater for ${{ github.event.client_payload.app }}
     runs-on: ubuntu-latest
     steps:
+      - name: Configure Git Author
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
       - name: Run repository updater
-        uses: hassio-addons/repository-updater@v2.0.1
+        uses: datf/repository-updater@66a0364baa9f540c3119c40561a11ef8911654a3
         with:
           app: ${{ github.event.client_payload.app }}
           repository: ${{ github.repository }}
