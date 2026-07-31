@@ -27,6 +27,10 @@ https://github.com/datf/repository-beta
 
 ## Apps provided by this repository
 
+### &#10003; Caddy Custom
+
+Cusomizable caddy server
+
 ## Releases
 
 Releases are based on Semantic Versioning, and use the format of
