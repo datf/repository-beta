@@ -1,5 +1,5 @@
 ---
-channel: stable
+channel: beta
 apps:
   caddy-custom:
     repository: datf/hassio-caddy-custom
