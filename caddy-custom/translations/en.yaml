@@ -1,0 +1,18 @@
+---
+configuration:
+  log_level:
+    name: Log level
+    description: The amount of logging the app should do.
+  args:
+    name: Caddy arguments
+    description: >-
+      Arguments to pass to caddy, such as "--watch" if you are in a local development environment and want to reload the config file whenever it changes.
+  env_vars:
+    name: Environment variables
+    description: >-
+      ENV variables to pass to both xcaddy builder and the caddy process.
+  plugins:
+    name: Caddy plugins
+    description: >-
+      Plugins to compile caddy with.
+      Must be in the format "github.com/USER/REPOSITORY".
