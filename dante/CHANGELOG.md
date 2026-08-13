@@ -1,1 +1,3 @@
-# First Release 🎉 
+## What’s changed
+
+* Simplified shipped configuration
