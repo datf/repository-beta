@@ -1,3 +1,3 @@
 ## What’s changed
 
-* Simplified shipped configuration
+* Fixed issues creating the accounts with the credentials given in the configuration
