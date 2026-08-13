@@ -31,6 +31,10 @@ https://github.com/datf/repository-beta
 
 Cusomizable caddy server
 
+### &#10003; Dante
+
+SOCKS proxy server
+
 ## Releases
 
 Releases are based on Semantic Versioning, and use the format of
