@@ -35,6 +35,10 @@ Cusomizable caddy server
 
 SOCKS proxy server
 
+### &#10003; Dante to Wireguard
+
+SOCKS proxy server with VPN exit
+
 ## Releases
 
 Releases are based on Semantic Versioning, and use the format of
