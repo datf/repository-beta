@@ -39,6 +39,10 @@ SOCKS proxy server
 
 SOCKS proxy server with VPN exit
 
+### &#10003; Plex Media Server
+
+Recorded media, live TV, online news, and podcasts ready to stream.
+
 ## Releases
 
 Releases are based on Semantic Versioning, and use the format of
