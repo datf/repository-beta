@@ -2,5 +2,5 @@
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update hassio-addons/workflows action to v3.0.1 @[renovate[bot]](https://github.com/apps/renovate) ([#9](https://github.com/datf/hassio-caddy-custom/pull/9))
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.2 @[renovate[bot]](https://github.com/apps/renovate) ([#8](https://github.com/datf/hassio-caddy-custom/pull/8))
+- ⬆️ Update caddyserver/xcaddy to v0.4.7 @[renovate[bot]](https://github.com/apps/renovate) ([#10](https://github.com/datf/hassio-caddy-custom/pull/10))
+- ⬆️ Update hassio-addons/workflows action to v4 @[renovate[bot]](https://github.com/apps/renovate) ([#11](https://github.com/datf/hassio-caddy-custom/pull/11))
