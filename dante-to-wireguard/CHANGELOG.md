@@ -2,5 +2,5 @@
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update hassio-addons/workflows action to v4 @[renovate[bot]](https://github.com/apps/renovate) ([#3](https://github.com/datf/app-dante-to-wireguard/pull/3))
-- [route VPN traffic without LAN config](https://github.com/datf/app-dante-to-wireguard/commit/acb2d7c0ac2cb7089dabb89e341e82362d6c9ee6)
+- ⬆️ Update ghcr.io/datf/dante Docker tag to v2.0.1 @[renovate[bot]](https://github.com/apps/renovate) ([#4](https://github.com/datf/app-dante-to-wireguard/pull/4))
+- ⬆️ Update ghcr.io/datf/dante Docker tag to v2.0.2 @[renovate[bot]](https://github.com/apps/renovate) ([#5](https://github.com/datf/app-dante-to-wireguard/pull/5))

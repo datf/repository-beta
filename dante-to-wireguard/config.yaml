@@ -1,5 +1,5 @@
 name: Dante to Wireguard
-version: 1.1.0
+version: 1.1.1
 slug: dante-to-wireguard
 description: SOCKS proxy server with VPN exit
 url: https://github.com/datf/app-dante-to-wireguard
