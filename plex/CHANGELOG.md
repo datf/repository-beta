@@ -1,3 +1,3 @@
 ## What’s changed
 
-* ⬆️ Update plexmediaserver to v1.43.4.10903-e5521bd8c
+- ⬆️ Update uuid-runtime to v2.41.5-0+deb13u1 (#306) @datf (#8)
