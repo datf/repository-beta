@@ -2,4 +2,4 @@
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update caddyserver/caddy to v2.11.7 @[renovate[bot]](https://github.com/apps/renovate) ([#19](https://github.com/datf/hassio-caddy-custom/pull/19))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.8 @[renovate[bot]](https://github.com/apps/renovate) ([#20](https://github.com/datf/hassio-caddy-custom/pull/20))
