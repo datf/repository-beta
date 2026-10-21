@@ -2,4 +2,4 @@
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.0 @[renovate[bot]](https://github.com/apps/renovate) (#9)
+- ⬆️ Update plexmediaserver to v1.43.5.11029-6bf8af3f0 @[renovate[bot]](https://github.com/apps/renovate) (#10)
