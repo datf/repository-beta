@@ -2,5 +2,4 @@
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.1 @[renovate[bot]](https://github.com/apps/renovate) (#11)
-- ⬆️ Update hassio-addons/workflows action to v5 @[renovate[bot]](https://github.com/apps/renovate) (#12)
+- ⬆️ Update plexmediaserver to v1.43.5.11079-b3b13e506 @[renovate[bot]](https://github.com/apps/renovate) (#13)
