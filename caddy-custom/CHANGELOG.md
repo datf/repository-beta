@@ -2,4 +2,4 @@
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update go APK package to v1.26.10-r0 @[renovate[bot]](https://github.com/apps/renovate) ([#24](https://github.com/datf/hassio-caddy-custom/pull/24))
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.10 @[renovate[bot]](https://github.com/apps/renovate) ([#25](https://github.com/datf/hassio-caddy-custom/pull/25))
