@@ -1,3 +1,3 @@
 ## What’s changed
 
-* Fix deprecation warning on start-up
+* New README and Documentation
