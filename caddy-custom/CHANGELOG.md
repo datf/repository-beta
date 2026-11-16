@@ -2,4 +2,4 @@
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update go APK package to v1.26.11-r0 @[renovate[bot]](https://github.com/apps/renovate) ([#29](https://github.com/datf/hassio-caddy-custom/pull/29))
+- ⬆️ Update nss-tools APK package to v3.133-r0 @[renovate[bot]](https://github.com/apps/renovate) ([#30](https://github.com/datf/hassio-caddy-custom/pull/30))
