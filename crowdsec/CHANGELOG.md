@@ -1,1 +1,3 @@
-# First version 🎉 
+## What’s changed
+
+* Standard homeassistant paths
