@@ -98,10 +98,10 @@ based on the following:
 [app-doc-dante]: https://github.com/datf/app-dante/blob/v2.0.12/README.md
 [dante-issue]: https://github.com/datf/app-dante/issues
 [dante-version-shield]: https://img.shields.io/badge/version-v2.0.12-blue.svg
-[app-dante-to-wireguard]: https://github.com/datf/app-dante-to-wireguard/tree/v1.1.9
-[app-doc-dante-to-wireguard]: https://github.com/datf/app-dante-to-wireguard/blob/v1.1.9/README.md
+[app-dante-to-wireguard]: https://github.com/datf/app-dante-to-wireguard/tree/v1.1.10
+[app-doc-dante-to-wireguard]: https://github.com/datf/app-dante-to-wireguard/blob/v1.1.10/README.md
 [dante-to-wireguard-issue]: https://github.com/datf/app-dante-to-wireguard/issues
-[dante-to-wireguard-version-shield]: https://img.shields.io/badge/version-v1.1.9-blue.svg
+[dante-to-wireguard-version-shield]: https://img.shields.io/badge/version-v1.1.10-blue.svg
 [app-plex]: https://github.com/datf/app-plex/tree/v1.0.11
 [app-doc-plex]: https://github.com/datf/app-plex/blob/v1.0.11/README.md
 [plex-issue]: https://github.com/datf/app-plex/issues
