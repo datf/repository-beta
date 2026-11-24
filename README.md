@@ -94,10 +94,10 @@ based on the following:
 [app-doc-crowdsec]: https://github.com/datf/app-crowdsec/blob/v0.1.2/README.md
 [crowdsec-issue]: https://github.com/datf/app-crowdsec/issues
 [crowdsec-version-shield]: https://img.shields.io/badge/version-v0.1.2-blue.svg
-[app-dante]: https://github.com/datf/app-dante/tree/v2.0.12
-[app-doc-dante]: https://github.com/datf/app-dante/blob/v2.0.12/README.md
+[app-dante]: https://github.com/datf/app-dante/tree/v2.0.13
+[app-doc-dante]: https://github.com/datf/app-dante/blob/v2.0.13/README.md
 [dante-issue]: https://github.com/datf/app-dante/issues
-[dante-version-shield]: https://img.shields.io/badge/version-v2.0.12-blue.svg
+[dante-version-shield]: https://img.shields.io/badge/version-v2.0.13-blue.svg
 [app-dante-to-wireguard]: https://github.com/datf/app-dante-to-wireguard/tree/v1.1.10
 [app-doc-dante-to-wireguard]: https://github.com/datf/app-dante-to-wireguard/blob/v1.1.10/README.md
 [dante-to-wireguard-issue]: https://github.com/datf/app-dante-to-wireguard/issues
