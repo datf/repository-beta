@@ -2,4 +2,4 @@
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.5.2 @[renovate[bot]](https://github.com/apps/renovate) (#14)
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.6.0 @[renovate[bot]](https://github.com/apps/renovate) (#15)
