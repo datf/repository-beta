@@ -1,3 +1,5 @@
 ## What’s changed
 
-* DOCS: Simplified repo install using HASSIO link
+## ⬆️ Dependency updates
+
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v9.6.0 @[renovate[bot]](https://github.com/apps/renovate) ([#4](https://github.com/datf/app-crowdsec/pull/4))
